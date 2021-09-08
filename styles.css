@@ -1,0 +1,15 @@
+.items {
+  border: 1px solid black;
+  box-sizing: border-box;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grilla {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90px;
+}
